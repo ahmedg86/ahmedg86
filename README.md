@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Ahmed  
 ### Plant Virology • Bioinformatics • Grapevine Biotechnology
 
-I am a research associate specializing in **plant virology**, **grapevine health**, and **bioinformatics**.  
+I am a research associate specializing in **plant virology**, **grapevine diseases**, and **bioinformatics**.  
 My work integrates **wet-lab diagnostics** with **high-throughput sequencing (HTS)** and computational workflows to investigate viruses, microbiomes, and plant–pathogen interactions in *Vitis* and *Muscadinia*.
 
 ---
@@ -100,8 +100,11 @@ Built for long-term research continuity in plant virology and grapevine biotechn
 
 ## 📫 Contact
 
-- **Email:** your_email@domain  
-- **Affiliation:** Center for Viticulture & Small Fruit Research, Florida A&M University  
+- **Work Email:** ahmed.mohamed2@famu.edu  
+- **Google Scholar:** *(replace this link with your real Scholar URL)*  
+  https://scholar.google.com/citations?user=XXXXXXX&hl=en  
+- **Position:** Research Associate, Grape Disease Diagnostics  
+- **Institution:** Florida Agricultural and Mechanical University (FAMU)  
 
 ---
 

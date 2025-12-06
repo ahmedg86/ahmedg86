@@ -104,7 +104,7 @@ Built for long-term research continuity in plant virology and grapevine biotechn
 - **Google Scholar:**  
   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=lgf5LacAAAAJ)
 - **Position:** Research Associate, Grape Disease Diagnostics (NCPN–FL)  
-- **Institution:** Florida A&M University (FAMU) — Center for Viticulture & Small Fruit Research  
+- **Institution:** Florida A&M University (FAMU), Center for Viticulture & Small Fruit Research  
 
 ## 🌱 Current Academic Focus
 

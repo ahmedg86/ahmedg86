@@ -102,8 +102,8 @@ Built for long-term research continuity in plant virology and grapevine biotechn
 
 - **Work Email:** ahmed.mohamed2@famu.edu  
 - **Google Scholar:** https://scholar.google.com/citations?hl=en&user=lgf5LacAAAAJ
-- **Position:** Research Associate, Grape Disease Diagnostics  
-- **Institution:** Florida Agricultural and Mechanical University (FAMU)  
+- **Position:** Research Associate, Grape Disease Diagnostics NCPN - FL 
+- **Institution:** FAMU / Center for Viticulture and Small Fruit Research 
 
 ---
 
